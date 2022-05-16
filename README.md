@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ilyakozubovskiy</h1>
+<h1 align="center">Hi 👋, I'm ilya/h1>
 <h3 align="center">A passionate backend-dev from Belarus:)</h3>
 
 - 🌱 I’m currently learning **ASP.NET CORE**
