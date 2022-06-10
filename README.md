@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ilya</h1>
 <h3 align="center">A passionate backend-dev from Belarus:)</h3>
 
-- 🌱 I’m currently learning **ASP.NET CORE**
+- 🌱 I’m currently learning **Microsoft Dynamics 365**
 
 - 📫 How to reach me **ilyakozubovskiy@outlook.com**
 
